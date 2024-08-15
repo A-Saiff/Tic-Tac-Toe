@@ -49,6 +49,7 @@ h1 {
   flex-direction: column;
   justify-content: center;
   font-size: 35px;
+  transition: all ease 1s;
 }
 .hidden {
   height: 0;
